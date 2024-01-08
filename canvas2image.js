@@ -1,5 +1,5 @@
 /**
- * covert canvas to image
+ * convert canvas to image
  * and save the image file
  */
 
